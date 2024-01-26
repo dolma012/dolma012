@@ -1,4 +1,4 @@
-# profile
+# Profile
 
 <h1 align="center">Hello, I'm Dhondup </h1>
 <h3 align="center">Senior Studying Computer Science and Data Science at UMN - Twin Cities</h3>
