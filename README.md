@@ -7,7 +7,7 @@
 
 <!-- - Check out my [portfolio](https://noahjpark.github.io/portfolio) -->
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools:</h1>
 <p align="center">
   <!-- Group tools by category, use smaller icons or text -->
   <strong> Programming Languages:</strong> Python, R, SQL, Julia, C, Java<br>
