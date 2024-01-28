@@ -8,7 +8,7 @@
 <!-- - Check out my [portfolio](https://noahjpark.github.io/portfolio) -->
 
 <h1 align="center">Languages and Tools 🛠 </h1>
-<p align="center">
+<p align="center"> 
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23323330.svg?style=for-the-badge&logo=R&logoColor=skyblue)
@@ -19,6 +19,7 @@
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 
 </p>
+
 <h3 align="center"> Libraries 📚 </h3>
 
 ![Spark](https://img.shields.io/badge/spark-%23323330.svg?style=for-the-badge&logo=spark&logoColor=orange)
@@ -28,8 +29,22 @@
 ![Numpy](https://img.shields.io/badge/numpy-%23323330.svg?style=for-the-badge&logo=numpy&logoColor=%23F7DF1E)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-%23323330.svg?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
-  <strong>Cloud and DevOps:</strong> AWS, Snowflake, Tableau, Docker, Kubernetes<br>
-  <strong>Others:</strong> Git, Jupyter Notebook, Anaconda, virtualenv
+  
+<h3 align="center"> Cloud and DevOps ☁️ </h3>
+
+
+![AWS](https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=aws&logoColor=orange)
+![Snowflake](https://img.shields.io/badge/snowflake-%23323330.svg?style=for-the-badge&logo=snowflake&logoColor=%23F7DF1E)
+![Tableau](https://img.shields.io/badge/tableau-%23323330.svg?style=for-the-badge&logo=tableau&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23323330.svg?style=for-the-badge&logo=kubernetes&logoColor=%23F7DF1E)
+
+<h3 align="center">Others 👜 </h3>
+
+![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=orange)
+![JupyterNotebook](https://img.shields.io/badge/jupyternotebook-%23323330.svg?style=for-the-badge&logo=jupyternotebook&logoColor=%23F7DF1E)
+
+
 
   
 
