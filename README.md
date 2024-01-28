@@ -15,7 +15,7 @@
 ![Julia](https://img.shields.io/badge/Julia-%23323330.svg?style=for-the-badge&logo=Julia&logoColor=grey)
 ![C](https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=C&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%%23F7DF1E.svg?style=for-the-badge&logo=mysql&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 
 </h3>
