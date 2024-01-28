@@ -11,7 +11,7 @@
 <p align="center">
   <!-- Group tools by category, use smaller icons or text -->
   <strong> Programming Languages:</strong> Python, R, SQL, Julia, C, Java<br>
-  <strong> Libraries:</strong> Spark, scikit-learn, Pandas, Numpy, PyTorch,Tensorflow, Matplotlib, boto3, Xarray<br>
+  <strong> Libraries:</strong> Spark, PyTorch, scikit-learn, Pandas, Numpy,Tensorflow, Matplotlib, boto3, Xarray<br>
   <strong>Cloud and DevOps:</strong> AWS, Snowflake,Tableau, Docker, Kubernetes<br>
   <strong>Others:</strong> Git, Jupyter Notebook, Anaconda, virtualenv
 </p>
