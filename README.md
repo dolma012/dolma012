@@ -12,7 +12,9 @@
   
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Julia](https://img.shields.io/badge/R-%23323330.svg?style=for-the-badge&logo=R&logoColor=skyblue)
+![R](https://img.shields.io/badge/R-%23323330.svg?style=for-the-badge&logo=R&logoColor=skyblue)
+![Julia](https://img.shields.io/badge/Julia-%23323330.svg?style=for-the-badge&logo=Julia&logoColor=grey)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
