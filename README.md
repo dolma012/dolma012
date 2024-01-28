@@ -22,7 +22,7 @@
 <h3 align="center"> Libraries 📚 </h3>
 <h3 align="center"> 
   
-![pySpark](https://img.shields.io/badge/pyspark-%23323330.svg?style=for-the-badge&logo=pyspark&logoColor=orange)
+![pySpark](https://img.shields.io/badge/apachespark-%23323330.svg?style=for-the-badge&logo=apachespark&logoColor=orange)
 ![Pytorch](https://img.shields.io/badge/pytorch-black.svg?style=for-the-badge&logo=pytorch&logoColor=orangered)
 ![Scikit-learn](https://img.shields.io/badge/scikit-learn-3670A0.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7DF1E)
 ![Pandas](https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas&logoColor=%23F7DF1E)
