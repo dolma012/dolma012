@@ -15,11 +15,11 @@
 ![R](https://img.shields.io/badge/R-%23323330.svg?style=for-the-badge&logo=R&logoColor=skyblue)
 ![Julia](https://img.shields.io/badge/Julia-%23323330.svg?style=for-the-badge&logo=Julia&logoColor=grey)
 ![C](https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=C&logoColor=blue)
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  <strong> Programming Languages:</strong> Python, R, SQL, Julia, C, Java<br>
+![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
+
+
   <strong> Libraries:</strong> Spark, PyTorch, scikit-learn, Pandas, Numpy, Tensorflow, Matplotlib, boto3, Xarray<br>
   <strong>Cloud and DevOps:</strong> AWS, Snowflake, Tableau, Docker, Kubernetes<br>
   <strong>Others:</strong> Git, Jupyter Notebook, Anaconda, virtualenv
