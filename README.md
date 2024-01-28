@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 
-
+</p>
 <h3 align="center"> Libraries 📚 </h3>
 
 ![Spark](https://img.shields.io/badge/spark-%23323330.svg?style=for-the-badge&logo=spark&logoColor=orange)
@@ -32,4 +32,4 @@
   <strong>Others:</strong> Git, Jupyter Notebook, Anaconda, virtualenv
 
   
-</p>
+
