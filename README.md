@@ -1,7 +1,7 @@
 # Profile
 
 <h1 align="center">Hello, I'm Dhondup 😊 </h1>
-<h3 align="center">Senior Studying Computer Science and Data Science at UMN - Twin Cities</h3>
+<h3 align="center">Senior Double Majoring in Computer Science and Data Science at UMN - Twin Cities</h3>
 <h3 align="center"> Passionate about building infrastructure for machine learning (ML) and artificial intelligence (AI) models </h3>
 
 
