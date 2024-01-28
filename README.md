@@ -42,7 +42,7 @@
 <h3 align="center">Others 👜 </h3>
 <h3 align="center"> 
   
-![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=orange)
+![Git](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=orange)
 ![JupyterNotebook](https://img.shields.io/badge/jupyternotebook-%23323330.svg?style=for-the-badge&logo=jupyternotebook&logoColor=%23F7DF1E)
 </h3>
 
