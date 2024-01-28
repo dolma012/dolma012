@@ -8,7 +8,7 @@
 <!-- - Check out my [portfolio](https://noahjpark.github.io/portfolio) -->
 
 <h1 align="center">Languages and Tools 🛠 </h1>
-<p align="center"> 
+<h3 align="center"> 
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23323330.svg?style=for-the-badge&logo=R&logoColor=skyblue)
@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 
-</p>
+</h3>
 
 <h3 align="center"> Libraries 📚 </h3>
 
