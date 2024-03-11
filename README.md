@@ -1,6 +1,9 @@
 # Profile
 
-<h1 align="center">Hi, I'm Dhondup! </h1> <div class="tenor-gif-embed" data-postid="27040745" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hand-gif-gif-27040745">Hand Gif Sticker</a>from <a href="https://tenor.com/search/hand+gif-stickers">Hand Gif Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h1 align="center"> Hi, I'm Dhondup! </h1>
+![Gif](https://tenor.com/view/hand-gif-gif-2704074)
+
+
 <h3 align="center"> Computer Science and Data Science at UMN </h3>
 
 
