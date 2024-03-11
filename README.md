@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello, I'm Dhondup! 😊 </h1>
 <h3 align="center"> Computer Science and Data Science at UMN </h3>
-<h3 align="center"> Passionate about building reliable infrastructure for AI and ML models.</h3>
 
 
 <!-- - Check out my [portfolio](https://noahjpark.github.io/portfolio) -->
