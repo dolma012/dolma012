@@ -1,6 +1,6 @@
 # Profile
 
-<h1 align="center">Hello, I'm Dhondup! 😊 </h1>
+<h1 align="center">Hi, I'm Dhondup! 😊 </h1>
 <h3 align="center"> Computer Science and Data Science at UMN </h3>
 
 
