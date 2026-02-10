@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Dhondup! </h1>
 
-<h3 align="center"> Computer Science and Data Science at UMN </h3>
+<h3 align="center"> Data Engineer at Cisco Meraki for Data Science Infrastructure Team</h3>
 
 
 <!-- - Check out my [portfolio](https://noahjpark.github.io/portfolio) -->
