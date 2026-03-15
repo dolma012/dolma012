@@ -2,10 +2,35 @@
 
 <h1 align="center"> Hi, I'm Dhondup! </h1>
 
-<h3 align="center"> Data Engineer at Cisco Meraki for Data Science Infrastructure Team</h3>
+<h3 align="center">
+Data Engineer at Cisco Meraki working on AI & Data Science Infrastructure
+</h3>
 
+<p align="center">
+Data Engineer with <b>2+ years of production experience</b> building <b>LLM-powered applications, agentic systems, and RAG pipelines at scale</b>. 
+Proven track record of shipping <b>multimodal AI assistants, MCP orchestration layers, and GenAI analytics products</b> used company-wide. 
+My background in <b>large-scale data engineering (100M+ records/day)</b> provides a strong foundation for building reliable, data-driven AI and ML systems.
+</p>
 
 <!-- - Check out my [portfolio](https://noahjpark.github.io/portfolio) -->
+
+<h1 align="center"> Publications & Research 📄 </h1>
+
+<p align="center">
+<b>Peer-Reviewed Research Publication</b>
+</p>
+
+<p align="center">
+🌎 <b>Hydrological Climate Research Study</b><br>
+Published in <i>AGU Water Resources Research</i><br>
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025WR040415?af=R">
+Read the Paper
+</a>
+</p>
+
+<p align="center">
+During my Data Science Internship in Climate Research, I contributed to a peer-reviewed publication analyzing large-scale environmental and hydrological datasets. My work involved data processing, statistical analysis, and computational modeling to support climate and water resource research.
+</p>
 
 <h1 align="center">Languages and Tools 🛠 </h1>
 <h3 align="center"> 
@@ -19,6 +44,7 @@
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 
 </h3>
+
 <h3 align="center"> Libraries 📚 </h3>
 <h3 align="center"> 
   
