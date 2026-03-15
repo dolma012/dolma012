@@ -14,34 +14,6 @@ Experienced in <b>large-scale data engineering</b>, building reliable infrastruc
 
 <!-- - Check out my [portfolio](https://noahjpark.github.io/portfolio) -->
 
----
-
-# Technical Skills ⚙️
-
-<p align="center">
-
-<b>AI / ML & GenAI</b><br>
-LangChain, RAG, MCP Orchestration, Multimodal LLMs, Agentic Systems, PyTorch, TensorFlow, scikit-learn, Hugging Face, Prompt Engineering
-
-<br><br>
-
-<b>Languages</b><br>
-Python, SQL, Java, R, Bash, C/C++
-
-<br><br>
-
-<b>Cloud & Infrastructure</b><br>
-AWS (ECS, Lambda, S3), Snowflake, Spark, Kubernetes, PostgreSQL, ETL/ELT, CI/CD
-
-<br><br>
-
-<b>Data & Visualization</b><br>
-Pandas, NumPy, Tableau, ThoughtSpot, Metrics Monitoring, Dashboard Development
-
-</p>
-
----
-
 <h1 align="center"> Publications & Research 📄 </h1>
 
 <p align="center">
@@ -60,10 +32,7 @@ Read the Paper
 During my Data Science Internship in Climate Research, I contributed to a peer-reviewed publication analyzing large-scale environmental and hydrological datasets. My work involved data processing, statistical analysis, and computational modeling to support climate and water resource research.
 </p>
 
----
-
 <h1 align="center">Languages and Tools 🛠 </h1>
-
 <h3 align="center"> 
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -78,7 +47,6 @@ During my Data Science Internship in Climate Research, I contributed to a peer-r
 </h3>
 
 <h3 align="center"> Libraries 📚 </h3>
-
 <h3 align="center"> 
   
 ![pySpark](https://img.shields.io/badge/apachespark-%23323330.svg?style=for-the-badge&logo=apachespark&logoColor=orange)
@@ -91,7 +59,6 @@ During my Data Science Internship in Climate Research, I contributed to a peer-r
 </h3>
 
 <h3 align="center"> Cloud and DevOps ☁️ </h3>
-
 <h3 align="center"> 
 
 ![AWS](https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=aws&logoColor=orange)
@@ -102,8 +69,7 @@ During my Data Science Internship in Climate Research, I contributed to a peer-r
 
 </h3>
 
-<h3 align="center"> Others 👜 </h3>
-
+<h3 align="center">Others 👜 </h3>
 <h3 align="center"> 
   
 ![Git](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=orange)
