@@ -1,6 +1,6 @@
 # Profile
 
-<h1 align="center"> Hi, I'm Dhondup! </h1>
+<h1 align="center"> Hi, I'm Dona Dolma! </h1>
 
 <h3 align="center">
 Data Engineer at Cisco Meraki working on AI & Data Science Infrastructure
